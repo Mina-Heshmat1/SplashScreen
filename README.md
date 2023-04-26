@@ -1,16 +1,25 @@
-# splashscreen
+# SplashScreen 🌟
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=1609EBD9&width=435&lines=Use+the+introduction+to+any+application%F0%9F%93%B1)](https://git.io/typing-svg)
 
-A new Flutter project.
 
-## Getting Started
+## Getting Started📲
+ How to use The application is easy to use, all you have to do is copy the code to your work environment, change the name of the application and put the appropriate image for you, then all you have to do is slightly modify the desire suit 
 
-This project is a starting point for a Flutter application.
+## Prerequisites
+In order to complete this project, you'll need to know the basics of Flutter! Aside from that, you'll need a local computer where you can install Dart, and edit some files. We'll walk you through that part, so if you haven't used Dart before -- don't worry. We recommend that you should have already completed Chat Gpt Front-End Foundations course, or have basic familiarity with Dart lunguega. When we say basic familiarity here's what we mean:
 
-A few resources to get you started if this is your first Flutter project:
+. Know what an Dart lunguega looks like
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+. Know some of the most common tags -- `title`, `Ux`,`ul`,`li`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you know these, you should be all set to jump in and give this project a shot!
+
+
+
+
+### Ask About More Help
+For help getting started please chat with my in 
+
+📞https://wh.ms/2001277303605
+
